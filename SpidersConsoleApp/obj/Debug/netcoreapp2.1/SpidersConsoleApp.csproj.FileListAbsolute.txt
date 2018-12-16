@@ -1,0 +1,16 @@
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\SpidersConsoleApp\bin\Debug\netcoreapp2.1\SpidersConsoleApp.deps.json
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\SpidersConsoleApp\bin\Debug\netcoreapp2.1\SpidersConsoleApp.runtimeconfig.json
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\SpidersConsoleApp\bin\Debug\netcoreapp2.1\SpidersConsoleApp.runtimeconfig.dev.json
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\SpidersConsoleApp\bin\Debug\netcoreapp2.1\SpidersConsoleApp.dll
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\SpidersConsoleApp\bin\Debug\netcoreapp2.1\SpidersConsoleApp.pdb
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\SpidersConsoleApp\bin\Debug\netcoreapp2.1\Patterns.dll
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\SpidersConsoleApp\bin\Debug\netcoreapp2.1\RobotSpiders.dll
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\SpidersConsoleApp\bin\Debug\netcoreapp2.1\Patterns.pdb
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\SpidersConsoleApp\bin\Debug\netcoreapp2.1\RobotSpiders.pdb
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\SpidersConsoleApp\obj\Debug\netcoreapp2.1\SpidersConsoleApp.csprojAssemblyReference.cache
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\SpidersConsoleApp\obj\Debug\netcoreapp2.1\SpidersConsoleApp.csproj.CoreCompileInputs.cache
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\SpidersConsoleApp\obj\Debug\netcoreapp2.1\SpidersConsoleApp.AssemblyInfoInputs.cache
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\SpidersConsoleApp\obj\Debug\netcoreapp2.1\SpidersConsoleApp.AssemblyInfo.cs
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\SpidersConsoleApp\obj\Debug\netcoreapp2.1\SpidersConsoleApp.csproj.CopyComplete
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\SpidersConsoleApp\obj\Debug\netcoreapp2.1\SpidersConsoleApp.dll
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\SpidersConsoleApp\obj\Debug\netcoreapp2.1\SpidersConsoleApp.pdb

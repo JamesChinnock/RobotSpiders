@@ -1,0 +1,9 @@
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\Patterns\bin\Debug\netstandard2.0\Patterns.deps.json
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\Patterns\bin\Debug\netstandard2.0\Patterns.dll
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\Patterns\bin\Debug\netstandard2.0\Patterns.pdb
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\Patterns\obj\Debug\netstandard2.0\Patterns.csprojAssemblyReference.cache
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\Patterns\obj\Debug\netstandard2.0\Patterns.csproj.CoreCompileInputs.cache
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\Patterns\obj\Debug\netstandard2.0\Patterns.AssemblyInfoInputs.cache
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\Patterns\obj\Debug\netstandard2.0\Patterns.AssemblyInfo.cs
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\Patterns\obj\Debug\netstandard2.0\Patterns.dll
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\Patterns\obj\Debug\netstandard2.0\Patterns.pdb

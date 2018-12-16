@@ -1,0 +1,12 @@
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\RobotSpiders\bin\Debug\netstandard2.0\RobotSpiders.deps.json
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\RobotSpiders\bin\Debug\netstandard2.0\RobotSpiders.dll
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\RobotSpiders\bin\Debug\netstandard2.0\RobotSpiders.pdb
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\RobotSpiders\bin\Debug\netstandard2.0\Patterns.dll
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\RobotSpiders\bin\Debug\netstandard2.0\Patterns.pdb
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\RobotSpiders\obj\Debug\netstandard2.0\RobotSpiders.csprojAssemblyReference.cache
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\RobotSpiders\obj\Debug\netstandard2.0\RobotSpiders.csproj.CoreCompileInputs.cache
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\RobotSpiders\obj\Debug\netstandard2.0\RobotSpiders.AssemblyInfoInputs.cache
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\RobotSpiders\obj\Debug\netstandard2.0\RobotSpiders.AssemblyInfo.cs
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\RobotSpiders\obj\Debug\netstandard2.0\RobotSpiders.csproj.CopyComplete
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\RobotSpiders\obj\Debug\netstandard2.0\RobotSpiders.dll
+C:\Development\CSharp\Ingenie\Test\RobotSpiders\RobotSpiders\obj\Debug\netstandard2.0\RobotSpiders.pdb

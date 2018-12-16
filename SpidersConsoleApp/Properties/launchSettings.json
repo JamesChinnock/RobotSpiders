@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SpidersConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "Force input from console"
+    }
+  }
+}
